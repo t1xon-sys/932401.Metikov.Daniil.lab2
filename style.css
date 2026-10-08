@@ -118,6 +118,10 @@ footer {
     box-shadow: var(--shadow-strong);
 }
 
+.top-skill:hover,
+.top-skill:active {
+    transform: none;
+}
 
 form p {
     margin: 10px 0;
